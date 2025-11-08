@@ -4,6 +4,16 @@
 
 This project aims to automate and digitize the vaccination workflow for Bangladesh, addressing inefficiencies in manual record-keeping, vaccine wastage, stock management, and citizen engagement. Built with Spring Boot, the system provides dedicated portals for citizens, vaccination centers, and health administrators to ensure transparency, accountability, and accessibility across Bangladesh’s vaccination ecosystem.
 
+
+## Tech Stack
+
+- SpringBoot
+- React
+- Gsap
+- Python Fast API
+- Shadcn
+- Perplexity AI
+
 ---
 
 ## Problem Addressed
